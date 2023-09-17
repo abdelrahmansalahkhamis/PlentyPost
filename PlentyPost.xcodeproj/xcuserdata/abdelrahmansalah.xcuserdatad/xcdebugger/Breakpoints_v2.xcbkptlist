@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A7A702F-51B5-4CC6-AD0D-50480E04E187"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81A4B377-51C1-4C40-B7CF-78CF3E004746"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlentyPost/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5474A8CD-9B71-48A7-AA19-67C4363B256B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlentyPost/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5474A8CD-9B71-48A7-AA19-67C4363B256B - 66b870729a6f1091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PlentyPost.Item) -&gt; SwiftUI.Text in PlentyPost.ItemListView.body.getter : some"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "5474A8CD-9B71-48A7-AA19-67C4363B256B - 41534bdeeee30302"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PlentyPost.AlbumsModel) -&gt; SwiftUI.Text in PlentyPost.ItemListView.body.getter : some"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "5474A8CD-9B71-48A7-AA19-67C4363B256B - c6c6e87f00a3d6ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PlentyPost.Post) -&gt; SwiftUI.Text in PlentyPost.ItemListView.body.getter : some"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4272D73-ACC2-4DA8-A8D8-5483363713BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlentyPost/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4272D73-ACC2-4DA8-A8D8-5483363713BF - 73379079ae2a125a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Swift.Array&lt;PlentyPost.Item&gt; in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.Item&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "A4272D73-ACC2-4DA8-A8D8-5483363713BF - a3f6b9ab9aa9b526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Swift.Array&lt;PlentyPost.AlbumsModel&gt; in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.AlbumsModel&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "A4272D73-ACC2-4DA8-A8D8-5483363713BF - fde192e812b60973"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; PlentyPost.Welcome in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;PlentyPost.Welcome, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1C118FB-41E8-4FC9-B02A-1645DCEF1934"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlentyPost/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1C118FB-41E8-4FC9-B02A-1645DCEF1934 - 73379079ae2a12d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Swift.Array&lt;PlentyPost.Item&gt; in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.Item&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "F1C118FB-41E8-4FC9-B02A-1645DCEF1934 - a3f6b9ab9aa9b5aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Swift.Array&lt;PlentyPost.AlbumsModel&gt; in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.AlbumsModel&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "F1C118FB-41E8-4FC9-B02A-1645DCEF1934 - fde192e812b609ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; PlentyPost.Welcome in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;PlentyPost.Welcome, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B215F10-9345-4699-88C5-1A6415BE6402"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlentyPost/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2B215F10-9345-4699-88C5-1A6415BE6402 - 73379079ae2a1314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Swift.Array&lt;PlentyPost.Item&gt; in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.Item&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "2B215F10-9345-4699-88C5-1A6415BE6402 - a3f6b9ab9aa9b468"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Swift.Array&lt;PlentyPost.AlbumsModel&gt; in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.AlbumsModel&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "2B215F10-9345-4699-88C5-1A6415BE6402 - fde192e812b6083d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; PlentyPost.Welcome in PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;PlentyPost.Welcome, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB130799-E4D7-4042-98CD-B356F6D579F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlentyPost/Coordinator/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB130799-E4D7-4042-98CD-B356F6D579F3 - 12e7e49d2144e8de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.Item&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "FB130799-E4D7-4042-98CD-B356F6D579F3 - 73810ba9cf955222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;PlentyPost.AlbumsModel&gt;, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "FB130799-E4D7-4042-98CD-B356F6D579F3 - 36f94a12382f40bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlentyPost.NetworkService.fetchData() -&gt; Combine.AnyPublisher&lt;PlentyPost.Welcome, Swift.Error&gt;"
+                  moduleName = "PlentyPost"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdelrahmansalah/Desktop/PlentyPost/PlentyPost/Coordinator/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

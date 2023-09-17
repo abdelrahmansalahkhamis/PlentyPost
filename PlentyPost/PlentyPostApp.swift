@@ -11,7 +11,8 @@ import SwiftUI
 struct PlentyPostApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            AppCoordinator().start()
         }
     }
 }
